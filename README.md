@@ -1,7 +1,7 @@
 # Ciclo simple de Rankine en estado estacionario
 
 [![Abrir en MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=IMClick-Project/Taller-Virtual-para-Educadores-de-MATLAB-2025)
-[![Abrir File Exchange](https://custom-icon-badges.demolab.com/badge/%20-File%20Exchange-blue.svg?logo=fileexchanger)](https://www.mathworks.com/matlabcentral/fileexchange/181885-taller-virtual-para-educadores-de-matlab-2025)
+[![Abrir File Exchange](https://custom-icon-badges.demolab.com/badge/%20-File%20Exchange-blue.svg?logo=fileexchanger)](https://www.mathworks.com/matlabcentral/fileexchange/181885-ciclo-simple-de-rankine-en-estado-estacionario)
 
 ## Autora
 Mariola Camacho Lie | Universidad de Guadalajara
