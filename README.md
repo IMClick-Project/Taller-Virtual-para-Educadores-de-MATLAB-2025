@@ -18,7 +18,7 @@ Asignaturas relacionadas al análisis de procesos termodinámicos como Termodin�
 ## Notas para los Educadores usando la Actividad
 * Pueden usar las preguntas y lecturas sugeridas para impulsar el aprendizaje activo del estudiante.
 * Pueden usar los controles para realizar distintos análisis de sensibilidad de este ciclo de potencia.
-* La función Coolpropgit está disponible para el uso de la comunidad de Mathworks.
+* La función Coolpropgit está disponible para el uso de la comunidad de MathWorks.
 
 ## Evaluación
 A través de ejercicios guiados con preguntas y referencias recomendadas, se espera que el estudiante examine el funcionamiento y efecto de distintos factores del sistema de estudio.
